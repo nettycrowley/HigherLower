@@ -1,0 +1,13 @@
+#cardTable {
+	width: 600px;
+	height: 400px;
+	background: Green;
+}
+
+#cardTable img {
+	width: 50;
+}
+
+#cardTable h1{
+	color:white;
+}
